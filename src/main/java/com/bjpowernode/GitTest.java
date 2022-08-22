@@ -9,6 +9,6 @@ public class GitTest {
         System.out.println("hot-fix");
         System.out.println("push");
         System.out.println("pull");
-      
+        System.out.println("实时更新");
     }
 }
